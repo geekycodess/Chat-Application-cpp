@@ -1,5 +1,5 @@
 // Enhanced Chat Application in C++
-// Includes Server and Client Code with unique IDs, timestamps, exit command, and improved logging
+// Includes Server and Client Code with unique IDs, timestamps,  exit command, and improved logging
 
 #include <iostream>
 #include <thread>
